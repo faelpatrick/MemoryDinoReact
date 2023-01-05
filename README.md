@@ -1,6 +1,16 @@
-# Dino Memory Game - React 
+# Jogo da Memorida com Dinosauros
 
-<h2>This project was developped during ProgBR class.</h2><br>
-<h3><a href="https://memorydino.surge.sh/" target="_blank"> Click here to play the game.</a>
-</h3><br>
-<img src='thumb.jpg'>
+Fiz esse jogo para meu filho que é autista e tem hiperfoco em dinosauros, para praticar minhas habilidades em react e javascript.
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **MemoryDinoReact**
+| :label: Tecnologias | javascript, node, react, html e css(tecnologias utilizadas)
+| :rocket: URL         | https://memorydino.surge.sh/
+| 📁: URL         | https://github.com/faelpatrick/MemoryDinoReact
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/faelpatrick/MemoryDinoReact/main/thumb.jpg#vitrinedev)
+
+## Detalhes do projeto
+Utilizei também habilidades aprendidas no curso do ProgramadorBr
+
