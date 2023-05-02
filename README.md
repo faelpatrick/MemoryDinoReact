@@ -1,4 +1,4 @@
-# Jogo da Memorida com Dinosauros
+# Jogo da Memorida com Dinossauros
 
 Fiz esse jogo para meu filho que é autista e tem hiperfoco em dinosauros, para praticar minhas habilidades em react e javascript.
 | :placard: Vitrine.Dev |     |
