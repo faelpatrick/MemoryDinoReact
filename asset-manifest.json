@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MemoryDinoReact/static/css/main.2a39d5e6.chunk.css",
+    "main.js": "/MemoryDinoReact/static/js/main.9ce7910f.chunk.js",
+    "main.js.map": "/MemoryDinoReact/static/js/main.9ce7910f.chunk.js.map",
+    "runtime-main.js": "/MemoryDinoReact/static/js/runtime-main.64fba6dc.js",
+    "runtime-main.js.map": "/MemoryDinoReact/static/js/runtime-main.64fba6dc.js.map",
+    "static/js/2.38c09666.chunk.js": "/MemoryDinoReact/static/js/2.38c09666.chunk.js",
+    "static/js/2.38c09666.chunk.js.map": "/MemoryDinoReact/static/js/2.38c09666.chunk.js.map",
+    "static/js/3.7230e715.chunk.js": "/MemoryDinoReact/static/js/3.7230e715.chunk.js",
+    "static/js/3.7230e715.chunk.js.map": "/MemoryDinoReact/static/js/3.7230e715.chunk.js.map",
+    "index.html": "/MemoryDinoReact/index.html",
+    "static/css/main.2a39d5e6.chunk.css.map": "/MemoryDinoReact/static/css/main.2a39d5e6.chunk.css.map",
+    "static/js/2.38c09666.chunk.js.LICENSE.txt": "/MemoryDinoReact/static/js/2.38c09666.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64fba6dc.js",
+    "static/js/2.38c09666.chunk.js",
+    "static/css/main.2a39d5e6.chunk.css",
+    "static/js/main.9ce7910f.chunk.js"
+  ]
+}
